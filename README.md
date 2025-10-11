@@ -6,11 +6,6 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00CFFF;">Fahry Aditya Setiawan</span></h1>
 <h3 align="center">☕ Java Developer | 💻 Tech Enthusiast | 🌱 Lifelong Learner</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00CFFF&center=true&vCenter=true&width=550&lines=Hello+World!+I'm+Takuma+Haruto+💫;Java+Developer+%7C+Anime+Lover+%7C+Dream+Engineer;Welcome+to+my+coding+universe!+🚀" alt="Typing Animation" />
-</p>
-
----
 
 ### 🧠 About Me
 > 👨‍🎓 I’m a **15-year-old SMK student** passionate about programming and technology.  
