@@ -102,7 +102,12 @@
 
 ### 🎵 Mood Booster
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31az6mkwuqbpnfuhm5x7ql4kzj64&cover_image=true&theme=novatorem&show_offline=false&background_color=121212" alt="Spotify Now Playing"/>
+  <img 
+    src="https://uploads.onecompiler.io/43k3cj6jv/43zbhfs2b/WhatsApp%20Image%202025-10-11%20at%2022.04.01%20(1).jpeg"
+    alt="Spotify Now Playing"
+    width="400"     <!-- ubah angka ini -->
+       
+  
 </p>
 
 ---
